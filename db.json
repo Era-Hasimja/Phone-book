@@ -1,0 +1,34 @@
+{
+  "phonebook": [
+    {
+      "id": 1,
+      "name": "Dori",
+      "lastName": "Hasimja",
+      "address": "Nena Tereze",
+      "city": "Gjakove",
+      "country": "Kosove",
+      "email": "erah@gmail.com",
+      "number": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Nita",
+      "lastName": "Hasimja",
+      "address": "Rrustem Statovci",
+      "city": "Prishtine",
+      "country": "Kosove",
+      "email": "nitah@gmail.com",
+      "number": "987654321"
+    },
+    {
+      "id": 6,
+      "name": "Era",
+      "lastName": "hasimja",
+      "address": "Nena Tereze",
+      "city": "gjakove",
+      "country": "kosove",
+      "email": "hasimjaera@gmail.com",
+      "number": "1234567890"
+    }
+  ]
+}
